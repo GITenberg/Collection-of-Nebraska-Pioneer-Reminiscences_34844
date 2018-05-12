@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37269'
     url: http://www.gutenberg.org/2009/agents/37269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34844#Collection-of-Nebraska-Pioneer-Reminiscences
 gutenberg_bookshelf: United States
 gutenberg_issued: '2011-01-04'
 gutenberg_type: Text
