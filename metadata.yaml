@@ -1,0 +1,27 @@
+_repo: Collection-of-Nebraska-Pioneer-Reminiscences_34844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daughters of the American Revolution. Nebraska
+    gutenberg_agent_id: '37269'
+    url: http://www.gutenberg.org/2009/agents/37269
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2011-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34844'
+  lccn: '16014483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nebraska -- History'
+- !lcsh 'Frontier and pioneer life -- Nebraska'
+- !lcc 'F590.3'
+title: Collection of Nebraska Pioneer Reminiscences
+url: http://www.gutenberg.org/ebooks/34844
